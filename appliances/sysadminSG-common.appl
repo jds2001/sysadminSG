@@ -19,6 +19,7 @@ packages:
     - PackageKit-gtk-module
     - libcanberra-gtk2
     - xorg-x11-fonts-Type1
+    - iscsi-initiator-utils
 repos:
     - name: "fedora-14"
       baseurl: "http://mirror.cc.vt.edu/pub/fedora/linux/releases/14/Everything/x86_64/os/"

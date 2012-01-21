@@ -19,6 +19,7 @@ files:
     - "sysadminSG-master/file.txt"
     - "sysadminSG-master/setup-iscsi.sh"
     - "sysadminSG-master/ldap-data.ldif"
+    - "sysadminSG-master/targets.conf"
 post:
   base:
     - "echo 'sysadminSG Master' >> /etc/issue"
